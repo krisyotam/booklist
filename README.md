@@ -14,3 +14,11 @@ Numerical Methods for Scientists
 Algebraic Logic by Paul R. Halmos  
 Trachtenberg Speed System of Basic Mathematics  
 Mathematical Puzzles by Anthony S. Filipiak 
+Elements by Euclid
+Differential and Integral Calculus by Richard Courant
+Methods of Mathematical Physics by Courant and Hilbert
+Geometry and the Imagination by Hilbert and Cohn-Vossen
+Theory of Games and Economic Behavior by von Neumann and Morgenstern
+An Investigation of the Laws of Thought by George Boole
+The Classical Groups by Hermann Weyl
+Kiselev’s on Geometry 
