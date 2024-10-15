@@ -30,8 +30,10 @@
 #### Numerical Analysis 
 
 #### Linear Algebra
+- Finite-Dimensional Vector Spaces by Pual R. Halmos (Undergrad)
 
 #### Abstract Algebra
+- A First Course in Abstract Algebra by John B. Fraleigh 
 
 #### Topology
 
